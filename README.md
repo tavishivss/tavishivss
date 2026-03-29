@@ -3,8 +3,6 @@
 
 ---
 
-# Tavishi Vemuri
-
 ### Software Engineer working on digital products
 
 I design and develop web experiences that balance performance, scalability, and clarity.
