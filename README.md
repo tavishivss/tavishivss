@@ -1,38 +1,63 @@
 <h1 align="center">Hi 👋, I'm Tavishi Vemuri</h1>
-<h3 align="center">AI Enthusiast | Backend Developer</h3>
-
-<p align="center">
-🚀 Passionate about crafting intelligent solutions with AI and scalable backend systems.
-</p>
+<h3 align="center">AI Enthusiast | Software Engineer</h3>
 
 ---
 
-- 🔭 I’m currently focusing on LLM integration and backend optimization.
-- 🌱 I’m diving deeper into **LLM fine-tuning**, **vector databases**, and **scalable microservices** for AI-driven products.
-- 🤖 I'm passionate about **AI research to production** workflows, including prompt engineering, inference optimization, and multimodal model deployment.
-- 💼 [My Projects](https://github.com/tavishivss)
+# Tavishi Vemuri
+
+### Software Engineer working on digital products
+
+I design and develop web experiences that balance performance, scalability, and clarity.
+My work sits where engineering meets intuition, focused on creating systems that feel as good as they function.
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
-<p align="left">
-  <a href="mailto:tavishivss981@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tavishi-vemuri-9b1a181b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tavishivss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## What I Work On
+
+* Building modern web applications with strong frontend architecture
+* Exploring AI integrations in real-world products
+* Designing systems that scale without losing simplicity
+* Turning experimental ideas into usable tools
 
 ---
 
-<h3 align="left">🧠 Technologies I Work With</h3>
+## Tools I Use
 
-**Languages & Frameworks:**
-- Python | JavaScript | C/C++ | PHP | HTML/CSS | React | Bootstrap
+**Frontend**
+Next.js · React · TypeScript · Tailwind 
 
-**Backend & DevOps:**
-- MongoDB | Firebase | PostgreSQL | Docker | Jenkins | Heroku | Git/GitLab
+**Backend & Systems**
+Python · FastAPI · APIs
 
-**AI & Cloud:**
-- OpenAI API | LLMs | Selenium | PyTest | GCP | AWS
+**AI / ML**
+PyTorch · Transformers 
 
-**Tools & Methodologies:**
-- Jira | Trello | Agile/Scrum | System Design | CI/CD | RESTful APIs
+**State & Interaction**
+Zustand · React Flow
+
+---
+
+## Approach
+
+I care about:
+
+* Clean, intentional interfaces
+* Systems that are easy to extend
+* Details that improve real user experience
+
+---
+
+## Find Me
+
+* GitHub: you're here
+* Email: [tavishivss981@gmail.com](mailto:tavishivss981@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/tavishi-vemuri/
+* Leetcode: https://leetcode.com/u/tavishivss981/
+
+---
+
+## Note
+
+I’m always experimenting, iterating, and rebuilding.
+Most of what you’ll find here is part of that process.
+
